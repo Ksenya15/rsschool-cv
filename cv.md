@@ -2,6 +2,7 @@
 ## Contacts:
 - Location: Minsk, Belarus
 - telegram:@ksyusky
+- [Behance](https://www.behance.net/kseniamak)
 ## About me 
 I'm a technical support manager for apps on Shopify platform. I have some knowledge of HTML and CSS, however, I would love to know more about JavaScript. 
 ## Skills 
